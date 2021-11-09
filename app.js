@@ -31,3 +31,7 @@ let groupByBalanceNew = users.reduce((accum, item) => {
 
 console.log(groupByBalance)
 console.log(groupByBalanceNew);
+
+function foo () {
+    console.log(asd)
+}
