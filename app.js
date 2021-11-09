@@ -35,3 +35,7 @@ console.log(groupByBalanceNew);
 function foo () {
     console.log(asd)
 }
+
+function asd () {
+    console.log(asd)
+}
